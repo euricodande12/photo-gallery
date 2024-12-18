@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">fisrt-app</string>
-    <string name="title_activity_main">fisrt-app</string>
-    <string name="package_name">com.edande.app</string>
-    <string name="custom_url_scheme">com.edande.app</string>
-</resources>
